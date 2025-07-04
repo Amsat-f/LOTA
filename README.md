@@ -28,7 +28,7 @@
 ### Configuration
 1. Clonez le dépôt :
    ```bash
-   git clone [url-du-dépôt]
+   git clone https://github.com/Amsat-f/LOTA/
    cd LOTA
    ```
 
